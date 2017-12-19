@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ProgettoP2.dir/main.cpp.o CMakeFiles/ProgettoP2.dir/Lista.cpp.o CMakeFiles/ProgettoP2.dir/ListaS.cpp.o CMakeFiles/ProgettoP2.dir/ListaD.cpp.o CMakeFiles/ProgettoP2.dir/ListaChar.cpp.o CMakeFiles/ProgettoP2.dir/ListaString.cpp.o  -o ProgettoP2 

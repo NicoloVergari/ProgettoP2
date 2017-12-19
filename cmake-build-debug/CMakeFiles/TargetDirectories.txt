@@ -1,0 +1,3 @@
+/home/verga/Dropbox/ProgettoP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/verga/Dropbox/ProgettoP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/verga/Dropbox/ProgettoP2/cmake-build-debug/CMakeFiles/ProgettoP2.dir

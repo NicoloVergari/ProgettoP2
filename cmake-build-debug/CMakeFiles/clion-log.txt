@@ -1,0 +1,4 @@
+/home/verga/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/172.4343.16/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/verga/Dropbox/ProgettoP2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/verga/Dropbox/ProgettoP2/cmake-build-debug
