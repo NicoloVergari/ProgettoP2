@@ -19,7 +19,7 @@ class ListaChar {
     ListaChar *togliNodo();
     ListaChar *togliNodo(char);
     ListaChar *ordina();
-    bool trova(char *);
+    bool trova(char *) const;
     ListaChar* operator+(ListaChar);
     ListaChar *unisci(ListaChar *);
     
