@@ -9,8 +9,15 @@
 
 class ListaChar {
  private:
-  char info:
-  ListaChar *next:
+    char info:
+    ListaChar *next:
  public:
-    
+    ListaChar() : info('/0'), next(0);
+    ListaChar(const ListaChar &);
+    ListaChar& operator=(const ListaChar &);
+    ~ListaChar();
+    ListaChar *togliNodo();
+    ListaChar *togliNodo(char);
+    ListaChar *ordina();
+    bool trova(char *);
 }
