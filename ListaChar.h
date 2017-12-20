@@ -6,3 +6,11 @@
 #define PROGETTOP2_LISTACHAR_H
 
 #endif //PROGETTOP2_LISTACHAR_H
+
+class ListaChar {
+ private:
+  char info:
+  ListaChar *next:
+ public:
+    
+}
